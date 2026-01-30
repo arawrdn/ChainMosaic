@@ -1,0 +1,13 @@
+{
+  "name": "chainmosaic",
+  "version": "1.0.0",
+  "description": "On-chain generative identity art for Base network",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network base"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.4.0"
+  }
+}
