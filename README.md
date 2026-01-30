@@ -1,5 +1,7 @@
 # ChainMosaic
 
+https://img.shields.io/badge/Built%20on-Base-blue?logo=coinbase
+
 **ChainMosaic** is a generative art protocol on the Base network.  
 Each wallet address can mint a unique on-chain mosaic NFT derived from its transaction DNA.  
 The art pattern is generated fully on-chain using hashed address data, ensuring uniqueness, permanence, and verifiable identity.
